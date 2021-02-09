@@ -1,0 +1,23 @@
+Get started with the project
+
+- Clone this repo 
+- Install requirements
+- Run the script
+- Go to http://localhost:5000
+- Done! 
+
+
+It's easy to install and run it on your computer.
+
+```shell
+# 1. First, clone the repo
+$ cd keras-flask-deploy-webapp
+
+# 2. Install Python packages
+$ pip install -r requirements.txt
+
+# 3. Run!
+$ python app.py
+```
+
+Open http://localhost:5000 and boom, have fun classifying
