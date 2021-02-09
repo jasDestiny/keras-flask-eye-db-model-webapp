@@ -1,5 +1,6 @@
 Get started with the project
 
+- Install python and add pip to path
 - Clone this repo 
 - Install requirements
 - Run the script
@@ -20,4 +21,4 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-Open http://localhost:5000 and boom, have fun classifying
+Open http://localhost:5000, use images in test folder to classify
